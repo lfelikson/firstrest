@@ -19,4 +19,5 @@ public class BucketList {
     public void setName(String name) {
         this.name = name;
     }
+
 }
